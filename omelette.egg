@@ -1,0 +1,10 @@
+((components
+  (extension garlic.base (source "base.scm"))
+  (extension garlic.strings (source "strings.scm"))
+  (extension garlic.http (source "http.scm"))
+  (extension garlic.sys (source "system.scm"))
+  (extension garlic.html (source "html.scm"))
+  (program swatch (source "dwatch.scm"))
+  )
+ (author "garlic")
+ )
